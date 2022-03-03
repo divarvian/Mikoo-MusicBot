@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/divarvian/Mikoo-MusicBot/blob/master/Utils/icon.jpg" alt="ICON" width="250" height="250"/></p>
+<p align="center"><img src="https://github.com/divarvian/Mikoo-MusicBot/blob/Mikoo-MusicBot/Utils/icon.jpg" alt="ICON" width="250" height="250"/></p>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
