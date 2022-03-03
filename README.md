@@ -4,7 +4,7 @@
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="https://t.me/MikooRobot"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/MikooMusicBot"> Ready-To-Use Bot </a> •
     <a href="https://t.me/OfficialMikoo"> Support Channel </a> •
     <a href="https://t.me/MikooSupport"> Support Chat </a> 
 </p>
