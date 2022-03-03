@@ -1,7 +1,7 @@
 {
   "name": "Mikoo - MusicBot",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "logo": "https://raw.githubusercontent.com/divarvian/Mikoo-MusicBot/Mikoo-MusicBot/Utils/icon.jpg",
+  "logo": "https://raw.githubusercontent.com/divarvian/Mikoo-MusicBot/master/Utils/icon.jpg",
   "keywords": [
   "python3",
   "telegram",
@@ -115,7 +115,7 @@
     },
     "UPSTREAM_BRANCH": {
       "description": "Repo's Branch Name",
-      "value": "Mikoo-MusicBot",
+      "value": "master",
       "required": true
     }
   },
